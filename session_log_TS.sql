@@ -1,4 +1,4 @@
-with ts123
+with ts
 as
 (
 --select to_date('01.02.2011','dd.mm.yyyy') dt from dual
